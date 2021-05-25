@@ -1,7 +1,0 @@
-venv/scripts/activate
-heroku login
-heroku git:clone -a jpeg-to-mp4
-git add .
-git commit -am "make it better"
-git push heroku master
-heroku logs --tail
