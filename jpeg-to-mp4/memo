@@ -1,6 +1,0 @@
-heroku login
-heroku git:remote -a jpeg-to-mp4
-git init
-git add .
-git commit -am 'test'
-git push heroku master
